@@ -1,8 +1,6 @@
-package com.example.setek.loginapp.login;
+package com.example.setek.login;
 
-/**
- * Created by Setek on 3/27/2016.
- */
+
 public class LoginService {
 
     public boolean login(String username, String password) {

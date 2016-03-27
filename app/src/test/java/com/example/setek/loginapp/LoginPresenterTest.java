@@ -5,9 +5,9 @@ package com.example.setek.loginapp;
  */
 
 import com.example.setek.R;
-import com.example.setek.loginapp.login.LoginPresenter;
-import com.example.setek.loginapp.login.LoginService;
-import com.example.setek.loginapp.login.LoginView;
+import com.example.setek.login.LoginPresenter;
+import com.example.setek.login.LoginService;
+import com.example.setek.login.LoginView;
 
 import org.junit.Before;
 import org.junit.Test;
